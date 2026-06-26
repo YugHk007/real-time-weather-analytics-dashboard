@@ -111,27 +111,17 @@ The dashboard displays:
 
 ### Dashboard
 
-> Add your dashboard screenshot here.
-
-```
 screenshots/dashboard.png
-```
 
 ### Weather Forecast
 
-> Add your forecast screenshot here.
-
-```
-screenshots/forecast.png
-```
+screenshots/forecast_1.png
+screenshots/forecast_2.png
 
 ### Multi-City Comparison
 
-> Add your comparison screenshot here.
-
-```
 screenshots/comparison.png
-```
+
 
 ---
 
